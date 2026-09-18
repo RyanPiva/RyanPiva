@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Ryan Piva
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas, com experiência profissional em telecomunicações e como Instrutor de Robótica e Programação.
 
