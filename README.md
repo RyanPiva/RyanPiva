@@ -10,6 +10,8 @@ Busco uma oportunidade como Desenvolvedor Full Stack, aplicando meus conheciment
 
 🚀 Transformando ideias em aplicações funcionais..
 
+🔗 [LinkedIn](https://www.linkedin.com/in/ryanpiva/) 
+
 <p align="left">
        <a href="https://github.com/RyanPiva?tab=repositories&sort=stargazers">
         <img 
